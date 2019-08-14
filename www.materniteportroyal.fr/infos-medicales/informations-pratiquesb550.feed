@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Informations pratiques</title>
+	<subtitle type="text">Site de la Maternité Port-Royal - Paris (14eme)</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr"/>
+	<id>https://www.materniteportroyal.fr/infos-medicales/informations-pratiques.feed</id>
+	<updated>2019-08-14T11:03:17+02:00</updated>
+	<author>
+		<name>Maternité Port Royal</name>
+		<email>siteweb@materniteportroyal.fr</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.materniteportroyal.fr/infos-medicales/informations-pratiques.feed?type=atom"/>
+	<entry>
+		<title>Congé maternité</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/infos-medicales/informations-pratiques/46-conge-maternite.html"/>
+		<published>2010-02-22T22:07:46+01:00</published>
+		<updated>2010-02-22T22:07:46+01:00</updated>
+		<id>https://www.materniteportroyal.fr/infos-medicales/informations-pratiques/46-conge-maternite.html</id>
+		<summary type="html">&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Le cong&amp;eacute; maternit&amp;eacute; comprend un cong&amp;eacute; pr&amp;eacute;natal (pr&amp;eacute;c&amp;eacute;dant l'accouchement) et un cong&amp;eacute; postnatal (suivant l'accouchement). Sa dur&amp;eacute;e varie suivant le type de grossesse (unique ou g&amp;eacute;mellaire) et le nombre d'enfant d&amp;eacute;j&amp;agrave; &amp;agrave; charge. La date de d&amp;eacute;but du cong&amp;eacute; pr&amp;eacute;natal est calcul&amp;eacute;e en fonction la date pr&amp;eacute;vue d'accouchement qui correspond &amp;agrave; la date des derni&amp;egrave;res r&amp;egrave;gles plus neuf mois. En cas d'accouchement avant le terme pr&amp;eacute;vu, la dur&amp;eacute;e de cong&amp;eacute; pr&amp;eacute;natale non utilis&amp;eacute;e est transform&amp;eacute;e en cong&amp;eacute; post-natal. En cas de d&amp;eacute;passement du terme pr&amp;eacute;vu, la dur&amp;eacute;e du cong&amp;eacute; postnatal n'est pas r&amp;eacute;duite et d&amp;eacute;bute le jour de l'accouchement. Avec accord du m&amp;eacute;decin ou de la sage femme une partie du cong&amp;eacute; pr&amp;eacute;natal peut &amp;ecirc;tre report&amp;eacute;e et transform&amp;eacute;e en cong&amp;eacute; post-natal (3 semaines maximum). Cependant, en cas d'arr&amp;ecirc;t de travail prescrit, le cong&amp;eacute; d&amp;eacute;butera automatiquement au premier jour de l'arr&amp;ecirc;t. En cas de grossesse multiple, une partie du cong&amp;eacute; post-natal peut-&amp;ecirc;tre transform&amp;eacute; en cong&amp;eacute; pr&amp;eacute;natal (4 semaines maximum).&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dur&amp;eacute;e du cong&amp;eacute; maternit&amp;eacute; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;
+&lt;table border=&quot;1&quot; style=&quot;width: 100%;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Vous attendez&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Vous avez &amp;agrave; charge&lt;br /&gt;(nbr enfants)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Cong&amp;eacute; pr&amp;eacute;natal&lt;br /&gt;(en semaines)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Cong&amp;eacute; Post-natal&lt;br /&gt;(en semaines)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Total&lt;br /&gt;(en semaines)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Un seul enfant&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;0 ou 1&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;6&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;10&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;16&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;2 ou plus&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;8&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;18&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;26&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Des jumeaux&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;-&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;12&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;22&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;34&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Des tripl&amp;eacute;s ou plus&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;-&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;24&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;22&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;46&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Vous pouvez calculez vos dates de cong&amp;eacute;s maternit&amp;eacute; gr&amp;acirc;ce &amp;agrave; notre &lt;/span&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/grossesse-accouchement/calendrier-grossesse.html&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;calculateur en ligne&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Cong&amp;eacute; pathologique pr&amp;eacute;natal&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;En cas d'existence d'un &amp;eacute;tat pathologique r&amp;eacute;sultant de la grossesse, le cong&amp;eacute; pr&amp;eacute;natal peut &amp;ecirc;tre anticip&amp;eacute; de deux semaines sans modification du cong&amp;eacute; post-natal.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Allaitement&lt;/span&gt;&lt;/span&gt; &lt;/strong&gt;&lt;br /&gt;Il n'est pas pr&amp;eacute;vu de prolongation du cong&amp;eacute; maternit&amp;eacute; pour cause d'allaitement maternel ou c&amp;eacute;sarienne. Cependant certains accords de branches et conventions collectives peuvent pr&amp;eacute;voir un cong&amp;eacute; post natal compl&amp;eacute;mentaire sous certaines conditions.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;Cong&amp;eacute; paternit&amp;eacute;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;En cas de naissance, un cong&amp;eacute; est pr&amp;eacute;vu pour le p&amp;egrave;re. Il est divis&amp;eacute; en deux parties. Un cong&amp;eacute; de trois jours est accord&amp;eacute; au moment de la naissance auquel s'ajoute un cong&amp;eacute; suppl&amp;eacute;mentaire de 11 jours en cas de grossesse simple et de 18 jours en cas de grossesse multiple (jumeaux ou tripl&amp;eacute;s). Ce second cong&amp;eacute; peut-&amp;ecirc;tre pris imm&amp;eacute;diatement apr&amp;egrave;s le cong&amp;eacute; de 3 jours ou &amp;agrave; distance dans les 4 mois qui suivent la naissance.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Situations particuli&amp;egrave;res&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;En cas de pr&amp;eacute;maturit&amp;eacute;, d'hospitalisation de votre enfant apr&amp;egrave;s la naissance ou dans d'autres situations, vous pouvez vous reporter aux informations suivantes :&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; color: #0000ff;&quot;&gt;&lt;a href=&quot;http://www.ameli.fr/assures/droits-et-demarches/par-situation-personnelle/vous-allez-avoir-un-enfant/vous-etes-enceinte-votre-conge-maternite/duree-du-conge-maternite-cas-particuliers.php&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;http://www.ameli.fr/assures/droits-et-demarches/par-situation-personnelle/vous-allez-avoir-un-enfant/vous-etes-enceinte-votre-conge-maternite/duree-du-conge-maternite-cas-particuliers.php&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Formalit&amp;eacute;s&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;Une fois votre d&amp;eacute;claration de grossesse adress&amp;eacute;e &amp;agrave; votre caisse d'assurance maladie, vous pouvez informer votre employeur de votre grossesse. Il n'existe cependant pas de d&amp;eacute;lai l&amp;eacute;gal pour informer son employeur. Ce dernier adressera alors une attestation de salaire &amp;agrave; l'assurance maladie et votre cong&amp;eacute; maternit&amp;eacute; d&amp;eacute;butera automatiquement &amp;agrave; la date pr&amp;eacute;vue&lt;/span&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; alt=&quot;puce-retour&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-administratives.html&quot;&gt;Sommaire Informations administratives&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Le cong&amp;eacute; maternit&amp;eacute; comprend un cong&amp;eacute; pr&amp;eacute;natal (pr&amp;eacute;c&amp;eacute;dant l'accouchement) et un cong&amp;eacute; postnatal (suivant l'accouchement). Sa dur&amp;eacute;e varie suivant le type de grossesse (unique ou g&amp;eacute;mellaire) et le nombre d'enfant d&amp;eacute;j&amp;agrave; &amp;agrave; charge. La date de d&amp;eacute;but du cong&amp;eacute; pr&amp;eacute;natal est calcul&amp;eacute;e en fonction la date pr&amp;eacute;vue d'accouchement qui correspond &amp;agrave; la date des derni&amp;egrave;res r&amp;egrave;gles plus neuf mois. En cas d'accouchement avant le terme pr&amp;eacute;vu, la dur&amp;eacute;e de cong&amp;eacute; pr&amp;eacute;natale non utilis&amp;eacute;e est transform&amp;eacute;e en cong&amp;eacute; post-natal. En cas de d&amp;eacute;passement du terme pr&amp;eacute;vu, la dur&amp;eacute;e du cong&amp;eacute; postnatal n'est pas r&amp;eacute;duite et d&amp;eacute;bute le jour de l'accouchement. Avec accord du m&amp;eacute;decin ou de la sage femme une partie du cong&amp;eacute; pr&amp;eacute;natal peut &amp;ecirc;tre report&amp;eacute;e et transform&amp;eacute;e en cong&amp;eacute; post-natal (3 semaines maximum). Cependant, en cas d'arr&amp;ecirc;t de travail prescrit, le cong&amp;eacute; d&amp;eacute;butera automatiquement au premier jour de l'arr&amp;ecirc;t. En cas de grossesse multiple, une partie du cong&amp;eacute; post-natal peut-&amp;ecirc;tre transform&amp;eacute; en cong&amp;eacute; pr&amp;eacute;natal (4 semaines maximum).&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dur&amp;eacute;e du cong&amp;eacute; maternit&amp;eacute; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;
+&lt;table border=&quot;1&quot; style=&quot;width: 100%;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Vous attendez&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Vous avez &amp;agrave; charge&lt;br /&gt;(nbr enfants)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Cong&amp;eacute; pr&amp;eacute;natal&lt;br /&gt;(en semaines)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Cong&amp;eacute; Post-natal&lt;br /&gt;(en semaines)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Total&lt;br /&gt;(en semaines)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Un seul enfant&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;0 ou 1&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;6&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;10&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;16&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;2 ou plus&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;8&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;18&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;26&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Des jumeaux&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;-&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;12&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;22&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;34&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Des tripl&amp;eacute;s ou plus&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;-&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;24&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;22&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;46&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Vous pouvez calculez vos dates de cong&amp;eacute;s maternit&amp;eacute; gr&amp;acirc;ce &amp;agrave; notre &lt;/span&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/grossesse-accouchement/calendrier-grossesse.html&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;calculateur en ligne&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Cong&amp;eacute; pathologique pr&amp;eacute;natal&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;En cas d'existence d'un &amp;eacute;tat pathologique r&amp;eacute;sultant de la grossesse, le cong&amp;eacute; pr&amp;eacute;natal peut &amp;ecirc;tre anticip&amp;eacute; de deux semaines sans modification du cong&amp;eacute; post-natal.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Allaitement&lt;/span&gt;&lt;/span&gt; &lt;/strong&gt;&lt;br /&gt;Il n'est pas pr&amp;eacute;vu de prolongation du cong&amp;eacute; maternit&amp;eacute; pour cause d'allaitement maternel ou c&amp;eacute;sarienne. Cependant certains accords de branches et conventions collectives peuvent pr&amp;eacute;voir un cong&amp;eacute; post natal compl&amp;eacute;mentaire sous certaines conditions.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;Cong&amp;eacute; paternit&amp;eacute;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;En cas de naissance, un cong&amp;eacute; est pr&amp;eacute;vu pour le p&amp;egrave;re. Il est divis&amp;eacute; en deux parties. Un cong&amp;eacute; de trois jours est accord&amp;eacute; au moment de la naissance auquel s'ajoute un cong&amp;eacute; suppl&amp;eacute;mentaire de 11 jours en cas de grossesse simple et de 18 jours en cas de grossesse multiple (jumeaux ou tripl&amp;eacute;s). Ce second cong&amp;eacute; peut-&amp;ecirc;tre pris imm&amp;eacute;diatement apr&amp;egrave;s le cong&amp;eacute; de 3 jours ou &amp;agrave; distance dans les 4 mois qui suivent la naissance.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Situations particuli&amp;egrave;res&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;En cas de pr&amp;eacute;maturit&amp;eacute;, d'hospitalisation de votre enfant apr&amp;egrave;s la naissance ou dans d'autres situations, vous pouvez vous reporter aux informations suivantes :&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; color: #0000ff;&quot;&gt;&lt;a href=&quot;http://www.ameli.fr/assures/droits-et-demarches/par-situation-personnelle/vous-allez-avoir-un-enfant/vous-etes-enceinte-votre-conge-maternite/duree-du-conge-maternite-cas-particuliers.php&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;http://www.ameli.fr/assures/droits-et-demarches/par-situation-personnelle/vous-allez-avoir-un-enfant/vous-etes-enceinte-votre-conge-maternite/duree-du-conge-maternite-cas-particuliers.php&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Formalit&amp;eacute;s&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;Une fois votre d&amp;eacute;claration de grossesse adress&amp;eacute;e &amp;agrave; votre caisse d'assurance maladie, vous pouvez informer votre employeur de votre grossesse. Il n'existe cependant pas de d&amp;eacute;lai l&amp;eacute;gal pour informer son employeur. Ce dernier adressera alors une attestation de salaire &amp;agrave; l'assurance maladie et votre cong&amp;eacute; maternit&amp;eacute; d&amp;eacute;butera automatiquement &amp;agrave; la date pr&amp;eacute;vue&lt;/span&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; alt=&quot;puce-retour&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-administratives.html&quot;&gt;Sommaire Informations administratives&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;</content>
+		<category term="Informations PRATIQUES" />
+	</entry>
+	<entry>
+		<title>Formalités administratives</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/infos-medicales/informations-pratiques/48-formalites-administratives.html"/>
+		<published>2010-02-22T22:17:28+01:00</published>
+		<updated>2010-02-22T22:17:28+01:00</updated>
+		<id>https://www.materniteportroyal.fr/infos-medicales/informations-pratiques/48-formalites-administratives.html</id>
+		<summary type="html">&lt;p&gt;&lt;strong&gt;Inscription &amp;agrave; la Maternit&amp;eacute;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;voir &amp;nbsp;&lt;a href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/grossesse-accouchement/inscription-maternite.html&quot;&gt;inscriptions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D&amp;eacute;claration de grossesse &lt;/strong&gt;&lt;br /&gt;La d&amp;eacute;claration de grossesse doit &amp;ecirc;tre remise par votre m&amp;eacute;decin ou votre sage-femme avant la fin du troisi&amp;egrave;me mois de grossesse. Le volet rose doit &amp;ecirc;tre adress&amp;eacute; &amp;agrave; votre caisse primaire d'assurance maladie. Les deux feuillets bleus doivent &amp;ecirc;tre adress&amp;eacute;s &amp;agrave; votre caisse d'allocation familiale. La prise en charge de vos examens et de vos traitements &amp;agrave; 100% d&amp;eacute;butera alors au premier jour du 6&amp;egrave;me mois de grossesse. Le fait d'adresser votre d&amp;eacute;claration de grossesse dans les d&amp;eacute;lais vous &amp;eacute;vitera tout retard de mise en place de votre prise en charge &amp;agrave; 100%.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cong&amp;eacute; maternit&amp;eacute;&lt;/strong&gt;&lt;br /&gt;Une fois votre d&amp;eacute;claration de grossesse adress&amp;eacute;e &amp;agrave; votre caisse d'assurance maladie, vous pouvez informer votre employeur de votre grossesse. Il n'existe cependant pas de d&amp;eacute;lai l&amp;eacute;gal pour informer son employeur. Ce dernier adressera alors une attestation de salaire &amp;agrave; l'assurance maladie et votre cong&amp;eacute; maternit&amp;eacute; d&amp;eacute;butera automatiquement &amp;agrave; la &lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=46:conge-maternite&amp;amp;catid=16&amp;amp;Itemid=4&quot;&gt;date pr&amp;eacute;vue&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; alt=&quot;puce-retour&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-administratives.html&quot;&gt;Sommaire Informations administratives&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Inscription &amp;agrave; la Maternit&amp;eacute;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;voir &amp;nbsp;&lt;a href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/grossesse-accouchement/inscription-maternite.html&quot;&gt;inscriptions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D&amp;eacute;claration de grossesse &lt;/strong&gt;&lt;br /&gt;La d&amp;eacute;claration de grossesse doit &amp;ecirc;tre remise par votre m&amp;eacute;decin ou votre sage-femme avant la fin du troisi&amp;egrave;me mois de grossesse. Le volet rose doit &amp;ecirc;tre adress&amp;eacute; &amp;agrave; votre caisse primaire d'assurance maladie. Les deux feuillets bleus doivent &amp;ecirc;tre adress&amp;eacute;s &amp;agrave; votre caisse d'allocation familiale. La prise en charge de vos examens et de vos traitements &amp;agrave; 100% d&amp;eacute;butera alors au premier jour du 6&amp;egrave;me mois de grossesse. Le fait d'adresser votre d&amp;eacute;claration de grossesse dans les d&amp;eacute;lais vous &amp;eacute;vitera tout retard de mise en place de votre prise en charge &amp;agrave; 100%.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cong&amp;eacute; maternit&amp;eacute;&lt;/strong&gt;&lt;br /&gt;Une fois votre d&amp;eacute;claration de grossesse adress&amp;eacute;e &amp;agrave; votre caisse d'assurance maladie, vous pouvez informer votre employeur de votre grossesse. Il n'existe cependant pas de d&amp;eacute;lai l&amp;eacute;gal pour informer son employeur. Ce dernier adressera alors une attestation de salaire &amp;agrave; l'assurance maladie et votre cong&amp;eacute; maternit&amp;eacute; d&amp;eacute;butera automatiquement &amp;agrave; la &lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=46:conge-maternite&amp;amp;catid=16&amp;amp;Itemid=4&quot;&gt;date pr&amp;eacute;vue&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; alt=&quot;puce-retour&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-administratives.html&quot;&gt;Sommaire Informations administratives&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;</content>
+		<category term="Informations PRATIQUES" />
+	</entry>
+	<entry>
+		<title>Qu’apporter pour le jour de la naissance et le séjour à la maternité ?</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/infos-medicales/informations-pratiques/49-valise-maternite.html"/>
+		<published>2010-02-22T22:19:55+01:00</published>
+		<updated>2010-02-22T22:19:55+01:00</updated>
+		<id>https://www.materniteportroyal.fr/infos-medicales/informations-pratiques/49-valise-maternite.html</id>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nous vous recommandons de préparer vos affaires pour la maternité quelques semaines avant la date d'accouchement prévue. Vous devrez préparez un sac pour le jour de l'accouchement ainsi qu'une valise pour votre séjour à la maternité (entre 2 et 5 jours en fonction de la voie d'accouchement).&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;DOCUMENTS ADMINISTRATIFS&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Pièce d'Identité (CI, passeport ou carte de résident)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Carte vitale et/ou attestation d'ouverture de droits à la sécurité sociale avec 100 % maternité&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Livret de famille (si en votre possession)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Attestation de reconnaissance anticipée éventuelle (couples non mariés)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Pour les patientes d'origine étrangère : un acte de mariage traduit en français&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;PETIT SAC POUR LA NAISSANCE&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;em&gt;&lt;strong&gt;Pour vous-même&lt;/strong&gt; :&lt;/em&gt;&lt;/span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;grand tee-shirt en coton&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;paire de chaussettes&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;brumisateur&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;un élastique si cheveux longs&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;em&gt;&lt;strong&gt;Pour le bébé :&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;brassière ou body en coton&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;brassière ou gilet chaud&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;pyjama adapté à la saison&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;paire de chaussettes ou chaussons&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;turbulette ou gitoteuse pour le lit, sans manche, ni capuche,&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;bonnet&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; un sac de couches 1er âge&amp;nbsp; (2/5 kg) pour la salle de naissance et pendant le séjour.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;em&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;Pour la personne qui vous accompagne :&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;De quoi se restaurer en cas d'accouchement pendant la nuit. &lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;VALISE POUR LE SEJOUR&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;em&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;Pour vous-même, en plus de vos affaires personnelles de toilettes&lt;/strong&gt;&lt;/span&gt; &lt;/em&gt;: &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;peignoir et chaussons, vêtements souples&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;oreiller ou coussin supplémentaire (coussin d'allaitement)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;slips à usage unique (2 à 3 fois par jour)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;serviettes de toilette&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;papier + stylo&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;mouchoirs en papier&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;montre ou réveil, petite lampe de chevet&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;Pour celles qui souhaitent allaiter&lt;/span&gt; &lt;/em&gt;: &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;2 soutiens-gorge d'allaitement&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;soins des mamelons : PURELAN ou BEPANTHENE par exemple&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;Pour le bébé&lt;/span&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;4 à 6 brassières ou body en coton&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;4 à 6 pyjamas&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;2 brassières chaudes ou gilets&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;2 à 3 paires de chaussettes, chaussons&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;3 à 4 serviettes de toilettes ou burnous&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;4 bavoirs à pressions&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;1 thermomètre électronique et de bain&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;4 carrés de tissu (langes &quot;tétras&quot;)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;1 peigne ou une brosse bébé&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;carrés de coton (ouate) pour la toilettte&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; un sac de couches 1er âge&amp;nbsp; (2/5 kg) pour la salle de naissance et pendant le séjour.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;A PREVOIR POUR LA SORTIE&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Vêtements de sortie&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;quelques couches pour le bébé&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;siège-auto nouveau-né, dos à la route pour le retour à la maison, même si le retour s'effectue en taxi&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; alt=&quot;puce-retour&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-pratiques.html&quot;&gt;Sommaire Informations pratiques&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Nous vous recommandons de préparer vos affaires pour la maternité quelques semaines avant la date d'accouchement prévue. Vous devrez préparez un sac pour le jour de l'accouchement ainsi qu'une valise pour votre séjour à la maternité (entre 2 et 5 jours en fonction de la voie d'accouchement).&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;DOCUMENTS ADMINISTRATIFS&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Pièce d'Identité (CI, passeport ou carte de résident)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Carte vitale et/ou attestation d'ouverture de droits à la sécurité sociale avec 100 % maternité&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Livret de famille (si en votre possession)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Attestation de reconnaissance anticipée éventuelle (couples non mariés)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Pour les patientes d'origine étrangère : un acte de mariage traduit en français&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;PETIT SAC POUR LA NAISSANCE&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;em&gt;&lt;strong&gt;Pour vous-même&lt;/strong&gt; :&lt;/em&gt;&lt;/span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;grand tee-shirt en coton&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;paire de chaussettes&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;brumisateur&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;un élastique si cheveux longs&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;em&gt;&lt;strong&gt;Pour le bébé :&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;brassière ou body en coton&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;brassière ou gilet chaud&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;pyjama adapté à la saison&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;paire de chaussettes ou chaussons&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;turbulette ou gitoteuse pour le lit, sans manche, ni capuche,&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;bonnet&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; un sac de couches 1er âge&amp;nbsp; (2/5 kg) pour la salle de naissance et pendant le séjour.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;em&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;Pour la personne qui vous accompagne :&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;De quoi se restaurer en cas d'accouchement pendant la nuit. &lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;VALISE POUR LE SEJOUR&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;em&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;Pour vous-même, en plus de vos affaires personnelles de toilettes&lt;/strong&gt;&lt;/span&gt; &lt;/em&gt;: &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;peignoir et chaussons, vêtements souples&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;oreiller ou coussin supplémentaire (coussin d'allaitement)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;slips à usage unique (2 à 3 fois par jour)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;serviettes de toilette&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;papier + stylo&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;mouchoirs en papier&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;montre ou réveil, petite lampe de chevet&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;Pour celles qui souhaitent allaiter&lt;/span&gt; &lt;/em&gt;: &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;2 soutiens-gorge d'allaitement&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;soins des mamelons : PURELAN ou BEPANTHENE par exemple&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;Pour le bébé&lt;/span&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;4 à 6 brassières ou body en coton&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;4 à 6 pyjamas&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;2 brassières chaudes ou gilets&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;2 à 3 paires de chaussettes, chaussons&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;3 à 4 serviettes de toilettes ou burnous&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;4 bavoirs à pressions&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;1 thermomètre électronique et de bain&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;4 carrés de tissu (langes &quot;tétras&quot;)&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;1 peigne ou une brosse bébé&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;carrés de coton (ouate) pour la toilettte&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; un sac de couches 1er âge&amp;nbsp; (2/5 kg) pour la salle de naissance et pendant le séjour.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;A PREVOIR POUR LA SORTIE&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Vêtements de sortie&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;quelques couches pour le bébé&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div style=&quot;padding-left: 30px; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;siège-auto nouveau-né, dos à la route pour le retour à la maison, même si le retour s'effectue en taxi&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; alt=&quot;puce-retour&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-pratiques.html&quot;&gt;Sommaire Informations pratiques&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;</content>
+		<category term="Informations PRATIQUES" />
+	</entry>
+	<entry>
+		<title>Comment nourrir votre bébé ?</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/infos-medicales/informations-pratiques/61-nourrir-bebe.html"/>
+		<published>2010-03-22T16:25:00+01:00</published>
+		<updated>2010-03-22T16:25:00+01:00</updated>
+		<id>https://www.materniteportroyal.fr/infos-medicales/informations-pratiques/61-nourrir-bebe.html</id>
+		<summary type="html">&lt;p&gt;Si vous choississez de donner le sein :&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;jce_file&quot; title=&quot;Comment nourrir votre bébé ?&quot; href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/allaitement.html&quot;&gt;Comment allaiter votre bébé ?&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; alt=&quot;puce-retour&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-pratiques.html&quot;&gt;Sommaire Informations pratiques&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;</summary>
+		<content type="html">&lt;p&gt;Si vous choississez de donner le sein :&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;jce_file&quot; title=&quot;Comment nourrir votre bébé ?&quot; href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/allaitement.html&quot;&gt;Comment allaiter votre bébé ?&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; alt=&quot;puce-retour&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-pratiques.html&quot;&gt;Sommaire Informations pratiques&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;</content>
+		<category term="Informations PRATIQUES" />
+	</entry>
+	<entry>
+		<title>Plan d'accès à la Maternité Port Royal</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/plan-acces.html"/>
+		<published>2010-05-28T10:49:42+02:00</published>
+		<updated>2010-05-28T10:49:42+02:00</updated>
+		<id>https://www.materniteportroyal.fr/plan-acces.html</id>
+		<author>
+			<name>Laurent ANGELI</name>
+			<email>dev@laurent-angeli.fr</email>
+		</author>
+		<summary type="html">&lt;center&gt;
+&lt;table style=&quot;width: 640px; height: 550px;&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: center;&quot;&gt;
+&lt;tr style=&quot;text-align: center;&quot;&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;span style=&quot;color: #999999;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;text-decoration: line-through;&quot;&gt;53 Avenue de l'Observatoire 75014 PARIS&lt;/span&gt;&lt;br /&gt;Pour cause de &lt;span style=&quot;color: #ff0000;&quot;&gt;plan Vigipirate&lt;/span&gt;, l'accès se fait au&lt;br /&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;123 Boulevard de Port Royal 75014 Paris&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;RER B : Station Port Royal / Bus 91 - 83 - 38&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;small&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt; &lt;a style=&quot;color: #0000ff; text-align: left;&quot; title=&quot;cliquer pour agrandir&quot; href=&quot;http://maps.google.fr/maps?f=q&amp;amp;source=embed&amp;amp;hl=fr&amp;amp;geocode=&amp;amp;q=53+Avenue+de+l'Observatoire,+Paris&amp;amp;aq=&amp;amp;sll=48.838614,2.336685&amp;amp;sspn=0.008898,0.026157&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=53+Avenue+de+l'Observatoire,+75014+Paris,+%C3%8Ele-de-France&amp;amp;t=m&amp;amp;ll=48.838848,2.334681&amp;amp;spn=0.027116,0.054932&amp;amp;z=14&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;https://www.materniteportroyal.fr/images/stories/image_plan_acces_maternit_port_royal.gif&quot; alt=&quot;image_plan_acces_maternit_port_royal&quot; width=&quot;600&quot; height=&quot;387&quot; /&gt; &lt;/a&gt; &lt;/span&gt;&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;small&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Cliquez sur le plan pour l'agrandir dans une nouvelle fenêtre&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;</summary>
+		<content type="html">&lt;center&gt;
+&lt;table style=&quot;width: 640px; height: 550px;&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: center;&quot;&gt;
+&lt;tr style=&quot;text-align: center;&quot;&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;span style=&quot;color: #999999;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;text-decoration: line-through;&quot;&gt;53 Avenue de l'Observatoire 75014 PARIS&lt;/span&gt;&lt;br /&gt;Pour cause de &lt;span style=&quot;color: #ff0000;&quot;&gt;plan Vigipirate&lt;/span&gt;, l'accès se fait au&lt;br /&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;123 Boulevard de Port Royal 75014 Paris&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;RER B : Station Port Royal / Bus 91 - 83 - 38&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;small&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt; &lt;a style=&quot;color: #0000ff; text-align: left;&quot; title=&quot;cliquer pour agrandir&quot; href=&quot;http://maps.google.fr/maps?f=q&amp;amp;source=embed&amp;amp;hl=fr&amp;amp;geocode=&amp;amp;q=53+Avenue+de+l'Observatoire,+Paris&amp;amp;aq=&amp;amp;sll=48.838614,2.336685&amp;amp;sspn=0.008898,0.026157&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=53+Avenue+de+l'Observatoire,+75014+Paris,+%C3%8Ele-de-France&amp;amp;t=m&amp;amp;ll=48.838848,2.334681&amp;amp;spn=0.027116,0.054932&amp;amp;z=14&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;https://www.materniteportroyal.fr/images/stories/image_plan_acces_maternit_port_royal.gif&quot; alt=&quot;image_plan_acces_maternit_port_royal&quot; width=&quot;600&quot; height=&quot;387&quot; /&gt; &lt;/a&gt; &lt;/span&gt;&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;small&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Cliquez sur le plan pour l'agrandir dans une nouvelle fenêtre&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;</content>
+		<category term="Informations PRATIQUES" />
+	</entry>
+</feed>

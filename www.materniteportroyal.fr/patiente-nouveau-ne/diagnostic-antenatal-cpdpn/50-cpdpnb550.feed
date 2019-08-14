@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Diagnostic Anténatal (CPDPN)</title>
+	<subtitle type="text">Site de la Maternité Port-Royal - Paris (14eme)</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr"/>
+	<id>https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/50-cpdpn.feed</id>
+	<updated>2019-08-14T11:12:48+02:00</updated>
+	<author>
+		<name>Maternité Port Royal</name>
+		<email>siteweb@materniteportroyal.fr</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/50-cpdpn.feed?type=atom"/>
+	<entry>
+		<title>Documents concernant le CPDPN</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/informations-medicales.html"/>
+		<published>2018-08-01T15:45:11+02:00</published>
+		<updated>2018-08-01T15:45:11+02:00</updated>
+		<id>https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/informations-medicales.html</id>
+		<author>
+			<name>Laurent ANGELI</name>
+			<email>dev@laurent-angeli.fr</email>
+		</author>
+		<summary type="html">&lt;h4&gt;Documents :&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Consultation de diagnostic anténatal: &lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=93:plans-acces-cochin&amp;amp;catid=17:informations-pratiques&quot; target=&quot;_blank&quot;&gt;Plan d'accès&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Consultation de diagnostic anténatal: &lt;a class=&quot;jce_file&quot; title=&quot;Informations pratiques&quot; href=&quot;https://www.materniteportroyal.fr/images/stories/Centre_de_DAN_Amnio_info_pratiques_O.ANSELEM.pdf&quot;&gt;&lt;/a&gt;&lt;a class=&quot;jce_file&quot; title=&quot;Documents à fournir au secrétariat du Diagnostic Anténatal lors de votre venue&quot; href=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/pdf/Formulaires/Doc-DAN.pdf&quot; target=&quot;_blank&quot;&gt;Documents à fournir&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Consultation de diagnostic anténatal: &lt;a class=&quot;jce_file&quot; title=&quot;Informations pratiques&quot; href=&quot;https://www.materniteportroyal.fr/images/stories/Centre_de_DAN_Amnio_info_pratiques_O.ANSELEM.pdf&quot;&gt;&lt;/a&gt;&lt;a class=&quot;jce_file&quot; title=&quot;Formulaire Renseignements Patiente pour DAN&quot; href=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/pdf/Formulaires/Doc-renseignements-patiente-DAN.pdf&quot; target=&quot;_blank&quot;&gt;Formulaire à remplir&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/infos-medicales/grossesse-et-accouchement/50-amniocentese.html&quot;&gt;Amniocentèse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/infos-medicales/grossesse-et-accouchement/51-biopsie-trophoblaste.html&quot;&gt;Biopsie de trophoblaste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/pdf/DPNI_Info-Plateforme_v2.pdf&quot; target=&quot;_blank&quot;&gt;DPNI ou ADN foetal sur sang maternel&lt;/a&gt; (fichier PDF)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=39:caryotype&amp;amp;catid=15:genetique-medicale&quot;&gt;Caryotype&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=174:acpa&amp;amp;catid=31:informations-medicales&quot;&gt;ACPA ou CGH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/images/CPDPN_Maternite_Port_Royal_HAS_Depistage_Trisomie_Janv2019.pdf&quot; target=&quot;_blank&quot;&gt;Le dépistage de la trisomie 21, document de la HAS de décembre 2018&lt;/a&gt; (fichier PDF)&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;h4&gt;Documents :&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Consultation de diagnostic anténatal: &lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=93:plans-acces-cochin&amp;amp;catid=17:informations-pratiques&quot; target=&quot;_blank&quot;&gt;Plan d'accès&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Consultation de diagnostic anténatal: &lt;a class=&quot;jce_file&quot; title=&quot;Informations pratiques&quot; href=&quot;https://www.materniteportroyal.fr/images/stories/Centre_de_DAN_Amnio_info_pratiques_O.ANSELEM.pdf&quot;&gt;&lt;/a&gt;&lt;a class=&quot;jce_file&quot; title=&quot;Documents à fournir au secrétariat du Diagnostic Anténatal lors de votre venue&quot; href=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/pdf/Formulaires/Doc-DAN.pdf&quot; target=&quot;_blank&quot;&gt;Documents à fournir&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Consultation de diagnostic anténatal: &lt;a class=&quot;jce_file&quot; title=&quot;Informations pratiques&quot; href=&quot;https://www.materniteportroyal.fr/images/stories/Centre_de_DAN_Amnio_info_pratiques_O.ANSELEM.pdf&quot;&gt;&lt;/a&gt;&lt;a class=&quot;jce_file&quot; title=&quot;Formulaire Renseignements Patiente pour DAN&quot; href=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/pdf/Formulaires/Doc-renseignements-patiente-DAN.pdf&quot; target=&quot;_blank&quot;&gt;Formulaire à remplir&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/infos-medicales/grossesse-et-accouchement/50-amniocentese.html&quot;&gt;Amniocentèse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/infos-medicales/grossesse-et-accouchement/51-biopsie-trophoblaste.html&quot;&gt;Biopsie de trophoblaste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/pdf/DPNI_Info-Plateforme_v2.pdf&quot; target=&quot;_blank&quot;&gt;DPNI ou ADN foetal sur sang maternel&lt;/a&gt; (fichier PDF)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=39:caryotype&amp;amp;catid=15:genetique-medicale&quot;&gt;Caryotype&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=174:acpa&amp;amp;catid=31:informations-medicales&quot;&gt;ACPA ou CGH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/images/CPDPN_Maternite_Port_Royal_HAS_Depistage_Trisomie_Janv2019.pdf&quot; target=&quot;_blank&quot;&gt;Le dépistage de la trisomie 21, document de la HAS de décembre 2018&lt;/a&gt; (fichier PDF)&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="CPDPN" />
+	</entry>
+	<entry>
+		<title>Fiches d'informations</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/50-cpdpn/167-fiches-d-informations.html"/>
+		<published>2016-08-30T17:44:48+02:00</published>
+		<updated>2016-08-30T17:44:48+02:00</updated>
+		<id>https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/50-cpdpn/167-fiches-d-informations.html</id>
+		<author>
+			<name>Laurent ANGELI</name>
+			<email>dev@laurent-angeli.fr</email>
+		</author>
+		<summary type="html">&lt;p&gt;Liste des fiches d'informations disponibles et mises &amp;agrave; jour&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Liste des fiches d'informations disponibles et mises &amp;agrave; jour&lt;/p&gt;</content>
+		<category term="CPDPN" />
+	</entry>
+	<entry>
+		<title>Prendre RDV au Diagnostic Anténatal</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/prendre-rdv.html"/>
+		<published>2016-08-30T17:42:52+02:00</published>
+		<updated>2016-08-30T17:42:52+02:00</updated>
+		<id>https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/prendre-rdv.html</id>
+		<author>
+			<name>Laurent ANGELI</name>
+			<email>dev@laurent-angeli.fr</email>
+		</author>
+		<summary type="html">&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br style=&quot;text-align: justify;&quot; /&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;
+&lt;div&gt;En cas de suspicion de &lt;strong&gt;pathologie foetale&lt;/strong&gt;, il est possible d'obtenir un rendez-vous dans le service de Diagnostic Anténatal dans les 24-48 heures.
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Il peut s'agir d'une situation à risque d'infection foetale, d'une prise médicamenteuse en cours de grossesse ou d'une pathologie maternelle pouvant avoir des conséquences sur le développement du foetus, ou d'une suspicion d'anomalie à l'échographie fœtale (retard de croissance intra-utérin, malformation, complication de grossesses multiples, anomalies de la quantité de liquide amniotique ou du placenta ...). &lt;br /&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;Le département d'échographie offre la possibilité d'&lt;strong&gt;échographies d'expertise&lt;/strong&gt; même pour des patientes non suivies à la maternité mais adressées par leur médecin. Un médecin de l'unité de Diagnostic Anténatal pourra vous recevoir pour effectuer une synthèse et discuter des modalités de prise en charge de votre grossesse.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;Pour contacter l'unité de Diagnostic Anténatal&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;secrétariat: &lt;a href=&quot;mailto:cecile.asselineau@aphp.fr&quot;&gt;cecile.asselineau@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;sage-femme: &lt;a href=&quot;mailto:accueil.dan.cch@aphp.fr&quot;&gt;accueil.dan.cch@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;tél. 01 58 41 38 10&amp;nbsp; ou 01 58 41 45 14&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;fax : 01 58 41 37 61&lt;/p&gt;</summary>
+		<content type="html">&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br style=&quot;text-align: justify;&quot; /&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;
+&lt;div&gt;En cas de suspicion de &lt;strong&gt;pathologie foetale&lt;/strong&gt;, il est possible d'obtenir un rendez-vous dans le service de Diagnostic Anténatal dans les 24-48 heures.
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Il peut s'agir d'une situation à risque d'infection foetale, d'une prise médicamenteuse en cours de grossesse ou d'une pathologie maternelle pouvant avoir des conséquences sur le développement du foetus, ou d'une suspicion d'anomalie à l'échographie fœtale (retard de croissance intra-utérin, malformation, complication de grossesses multiples, anomalies de la quantité de liquide amniotique ou du placenta ...). &lt;br /&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;Le département d'échographie offre la possibilité d'&lt;strong&gt;échographies d'expertise&lt;/strong&gt; même pour des patientes non suivies à la maternité mais adressées par leur médecin. Un médecin de l'unité de Diagnostic Anténatal pourra vous recevoir pour effectuer une synthèse et discuter des modalités de prise en charge de votre grossesse.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;Pour contacter l'unité de Diagnostic Anténatal&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;secrétariat: &lt;a href=&quot;mailto:cecile.asselineau@aphp.fr&quot;&gt;cecile.asselineau@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;sage-femme: &lt;a href=&quot;mailto:accueil.dan.cch@aphp.fr&quot;&gt;accueil.dan.cch@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;tél. 01 58 41 38 10&amp;nbsp; ou 01 58 41 45 14&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;fax : 01 58 41 37 61&lt;/p&gt;</content>
+		<category term="CPDPN" />
+	</entry>
+	<entry>
+		<title>L'équipe du CPDPN</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/l-equipe.html"/>
+		<published>2016-08-30T17:42:19+02:00</published>
+		<updated>2016-08-30T17:42:19+02:00</updated>
+		<id>https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/l-equipe.html</id>
+		<author>
+			<name>Laurent ANGELI</name>
+			<email>dev@laurent-angeli.fr</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.materniteportroyal.fr/images/Equipe_du_CPDPN_20190130_800.jpg&quot; alt=&quot;Equipe du CPDPN 20190130 800&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Le &lt;strong&gt;Centre Pluri-disciplinaire de Diagnostic Prénatal (CPDPN) de Cochin&lt;/strong&gt; est composé de médecins: gynécologues-obstétriciens, échographistes, généticiens, cytogénéticiens, pédiatres, radiologues, pharmaciens, foetopathologistes, virologues, parasitologues mais aussi, conseillère en génétique, psychologues, sage-femmes. Il est coordonné par le Pr Vassilis Tsatsaris et le Dr Olivia Anselem (suppléante).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Le CPDPN dispose de l'agrément de l&lt;strong&gt;'Agence de la Biomédecine&lt;/strong&gt;, il rend chaque année son rapport d'activité et fait partie de la &lt;strong&gt;Fédération Française des CPDPN&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Les membres du CPDPN se réunissent de façon &lt;strong&gt;hebdomadaire&lt;/strong&gt; pour examiner les résultats des différents examens de diagnostic prénatal et donner un avis sur les pathologies foetales suspectées ou diagnostiquées.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Pour prendre l'&lt;strong&gt;avis du CPDPN&lt;/strong&gt;, il est nécessaire de consulter dans le service de &lt;strong&gt;Diagnostic Anténatal&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;Pour contacter l'unité de Diagnostic Anténatal&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;secrétariat: &lt;a href=&quot;mailto:cecile.asselineau@aphp.fr&quot;&gt;cecile.asselineau@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;sage-femme: &lt;a href=&quot;mailto:accueil.dan.cch@aphp.fr&quot;&gt;accueil.dan.cch@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;tél. 01 58 41 38 10&amp;nbsp; ou 01 58 41 45 14&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;fax : 01 58 41 37 61&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.materniteportroyal.fr/images/Equipe_du_CPDPN_20190130_800.jpg&quot; alt=&quot;Equipe du CPDPN 20190130 800&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Le &lt;strong&gt;Centre Pluri-disciplinaire de Diagnostic Prénatal (CPDPN) de Cochin&lt;/strong&gt; est composé de médecins: gynécologues-obstétriciens, échographistes, généticiens, cytogénéticiens, pédiatres, radiologues, pharmaciens, foetopathologistes, virologues, parasitologues mais aussi, conseillère en génétique, psychologues, sage-femmes. Il est coordonné par le Pr Vassilis Tsatsaris et le Dr Olivia Anselem (suppléante).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Le CPDPN dispose de l'agrément de l&lt;strong&gt;'Agence de la Biomédecine&lt;/strong&gt;, il rend chaque année son rapport d'activité et fait partie de la &lt;strong&gt;Fédération Française des CPDPN&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Les membres du CPDPN se réunissent de façon &lt;strong&gt;hebdomadaire&lt;/strong&gt; pour examiner les résultats des différents examens de diagnostic prénatal et donner un avis sur les pathologies foetales suspectées ou diagnostiquées.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Pour prendre l'&lt;strong&gt;avis du CPDPN&lt;/strong&gt;, il est nécessaire de consulter dans le service de &lt;strong&gt;Diagnostic Anténatal&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;Pour contacter l'unité de Diagnostic Anténatal&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;secrétariat: &lt;a href=&quot;mailto:cecile.asselineau@aphp.fr&quot;&gt;cecile.asselineau@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;sage-femme: &lt;a href=&quot;mailto:accueil.dan.cch@aphp.fr&quot;&gt;accueil.dan.cch@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;tél. 01 58 41 38 10&amp;nbsp; ou 01 58 41 45 14&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;fax : 01 58 41 37 61&lt;/p&gt;</content>
+		<category term="CPDPN" />
+	</entry>
+	<entry>
+		<title>Présentation du CPDPN</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn.html"/>
+		<published>2016-08-30T17:38:01+02:00</published>
+		<updated>2016-08-30T17:38:01+02:00</updated>
+		<id>https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn.html</id>
+		<author>
+			<name>Laurent ANGELI</name>
+			<email>dev@laurent-angeli.fr</email>
+		</author>
+		<summary type="html">&lt;p&gt;La &lt;strong&gt;maternité Port-Royal&lt;/strong&gt; dispose d'un &lt;strong&gt;Centre Pluridisciplinaire de Diagnostic Prénatal&lt;/strong&gt; (CPDPN) qui réunit des gynécologues-obstétriciens et échographistes de la maternité Port-Royal et des médecins des services spécialisés de Cochin.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=163:l-equipe-du-cpdpn&amp;amp;catid=50:cpdpn&quot;&gt;L'équipe du CPDPN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=164:contacter-le-cpdpn&amp;amp;catid=50:cpdpn&quot;&gt;Prendre RV au Diagnostic Anténatal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/grossesse-accouchement/echographies-obstetricales.html&quot;&gt;Echographie foetale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/imagerie-perinatale.html&quot;&gt;Imagerie périnatale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/genetique-et-cytogenetique.html&quot;&gt;Génétique et cytogénétique&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=167:fiches-d-informations&amp;amp;catid=50:cpdpn&quot;&gt;Fiches d'informations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;Pour contacter l'unité de Diagnostic Anténatal&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;secrétariat: &lt;a href=&quot;mailto:cecile.asselineau@aphp.fr&quot;&gt;cecile.asselineau@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;sage-femme: &lt;a href=&quot;mailto:accueil.dan.cch@aphp.fr&quot;&gt;accueil.dan.cch@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;tél. 01 58 41 38 10&amp;nbsp; ou 01 58 41 45 14&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;fax : 01 58 41 37 61&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;La &lt;strong&gt;maternité Port-Royal&lt;/strong&gt; dispose d'un &lt;strong&gt;Centre Pluridisciplinaire de Diagnostic Prénatal&lt;/strong&gt; (CPDPN) qui réunit des gynécologues-obstétriciens et échographistes de la maternité Port-Royal et des médecins des services spécialisés de Cochin.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=163:l-equipe-du-cpdpn&amp;amp;catid=50:cpdpn&quot;&gt;L'équipe du CPDPN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=164:contacter-le-cpdpn&amp;amp;catid=50:cpdpn&quot;&gt;Prendre RV au Diagnostic Anténatal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/grossesse-accouchement/echographies-obstetricales.html&quot;&gt;Echographie foetale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/imagerie-perinatale.html&quot;&gt;Imagerie périnatale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/patiente-nouveau-ne/diagnostic-antenatal-cpdpn/genetique-et-cytogenetique.html&quot;&gt;Génétique et cytogénétique&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.materniteportroyal.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=167:fiches-d-informations&amp;amp;catid=50:cpdpn&quot;&gt;Fiches d'informations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;Pour contacter l'unité de Diagnostic Anténatal&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;secrétariat: &lt;a href=&quot;mailto:cecile.asselineau@aphp.fr&quot;&gt;cecile.asselineau@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;sage-femme: &lt;a href=&quot;mailto:accueil.dan.cch@aphp.fr&quot;&gt;accueil.dan.cch@aphp.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;tél. 01 58 41 38 10&amp;nbsp; ou 01 58 41 45 14&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;fax : 01 58 41 37 61&lt;/p&gt;</content>
+		<category term="CPDPN" />
+	</entry>
+</feed>

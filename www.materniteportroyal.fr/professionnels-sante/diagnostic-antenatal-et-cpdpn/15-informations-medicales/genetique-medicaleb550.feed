@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Diagnostic Anténatal et CPDPN</title>
+	<subtitle type="text">Site de la Maternité Port-Royal - Paris (14eme)</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr"/>
+	<id>https://www.materniteportroyal.fr/professionnels-sante/diagnostic-antenatal-et-cpdpn/15-informations-medicales/genetique-medicale.feed</id>
+	<updated>2019-08-14T11:14:15+02:00</updated>
+	<author>
+		<name>Maternité Port Royal</name>
+		<email>siteweb@materniteportroyal.fr</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.materniteportroyal.fr/professionnels-sante/diagnostic-antenatal-et-cpdpn/15-informations-medicales/genetique-medicale.feed?type=atom"/>
+	<entry>
+		<title>Conséquences des anomalies chromosomiques</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/professionnels-sante/diagnostic-antenatal-et-cpdpn/15-informations-medicales/genetique-medicale/41-consequences-anomalies-chromosomiques.html"/>
+		<published>2010-02-18T22:10:49+01:00</published>
+		<updated>2010-02-18T22:10:49+01:00</updated>
+		<id>https://www.materniteportroyal.fr/professionnels-sante/diagnostic-antenatal-et-cpdpn/15-informations-medicales/genetique-medicale/41-consequences-anomalies-chromosomiques.html</id>
+		<author>
+			<name>Pr Jean-Michel DUPONT</name>
+		</author>
+		<summary type="html">&lt;p&gt;Une anomalie chromosomique est équilibrée quand il n'y a pas de perte ou de gain de matériel génétique. Elle est dite déséquilibrée quand la quantité de matériel génétique est modifiée.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Les anomalies chromosomiques équilibrées&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Elles sont habituellement sans conséquence pour la santé de celui qui en est porteur ; une personne sur 500 environ dans la population a un remaniement chromosomique équilibré et peut transmettre l'anomalie à sa descendance, sur un mode équilibré ou déséquilibré.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Les anomalies chromosomiques déséquilibrées&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Elles sont habituellement associées à des manifestations cliniques, d'intensité et de gravité  variable selon le type de l'anomalie.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Transmission des remaniements chromosomiques équilibrés&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A chaque grossesse, plusieurs possibilités peuvent se présenter :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;soit transmission des chromosomes normaux, l'enfant a un caryotype normal ;&lt;/li&gt;
+&lt;li&gt;soit transmission à l'identique du remaniement sur un mode dit équilibré (sans plus de conséquence pour l'enfant que pour le parent porteur) ;&lt;/li&gt;
+&lt;li&gt;soit transmission sur un mode dit déséquilibré, c'est à dire avec perte ou gain de matériel génétique pouvant entraîner des manifestations plus ou moins graves chez l'enfant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img alt=&quot;puce-retour&quot; src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-medicales-genetique-medicale.html&quot;&gt;Sommaire Génétique Médicale&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;</summary>
+		<content type="html">&lt;p&gt;Une anomalie chromosomique est équilibrée quand il n'y a pas de perte ou de gain de matériel génétique. Elle est dite déséquilibrée quand la quantité de matériel génétique est modifiée.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Les anomalies chromosomiques équilibrées&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Elles sont habituellement sans conséquence pour la santé de celui qui en est porteur ; une personne sur 500 environ dans la population a un remaniement chromosomique équilibré et peut transmettre l'anomalie à sa descendance, sur un mode équilibré ou déséquilibré.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Les anomalies chromosomiques déséquilibrées&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Elles sont habituellement associées à des manifestations cliniques, d'intensité et de gravité  variable selon le type de l'anomalie.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Transmission des remaniements chromosomiques équilibrés&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A chaque grossesse, plusieurs possibilités peuvent se présenter :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;soit transmission des chromosomes normaux, l'enfant a un caryotype normal ;&lt;/li&gt;
+&lt;li&gt;soit transmission à l'identique du remaniement sur un mode dit équilibré (sans plus de conséquence pour l'enfant que pour le parent porteur) ;&lt;/li&gt;
+&lt;li&gt;soit transmission sur un mode dit déséquilibré, c'est à dire avec perte ou gain de matériel génétique pouvant entraîner des manifestations plus ou moins graves chez l'enfant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img alt=&quot;puce-retour&quot; src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-medicales-genetique-medicale.html&quot;&gt;Sommaire Génétique Médicale&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;</content>
+		<category term="Génétique médicale" />
+	</entry>
+	<entry>
+		<title>Anomalies chromosomiques</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/professionnels-sante/diagnostic-antenatal-et-cpdpn/15-informations-medicales/genetique-medicale/40-anomalies-chromosomiques.html"/>
+		<published>2010-02-18T22:08:19+01:00</published>
+		<updated>2010-02-18T22:08:19+01:00</updated>
+		<id>https://www.materniteportroyal.fr/professionnels-sante/diagnostic-antenatal-et-cpdpn/15-informations-medicales/genetique-medicale/40-anomalies-chromosomiques.html</id>
+		<author>
+			<name>Pr Jean-Michel DUPONT</name>
+		</author>
+		<summary type="html">Une anomalie chromosomique est une modification du nombre ou de la forme des chromosomes.
+&lt;p&gt;Différents types d'anomalies chromosomiques&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;les anomalies du nombre : en plus, 47 chromosomes (trisomie), ou en moins, 45 chromosomes (monosomie).&lt;/li&gt;
+&lt;li&gt;les anomalies de structure sont des modifications de la forme d'un ou de plusieurs chromosomes, par exemple une modification de l'ordre des gènes (inversion) ou un échange de matériel génétique entre deux chromosomes (translocation).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Un cas particulier : les polymorphismes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ce sont des variations de la forme d'un chromosome, sans conséquence clinique identifiée.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mécanisme de survenue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Les anomalies chromosomiques surviennent le plus souvent accidentellement, mais peuvent aussi être transmises au sein d'une famille.&lt;br /&gt;Risque de survenue&lt;/p&gt;
+&lt;p&gt;La majorité sont des anomalies de nombre et ne sont pas héréditaires ; bien  qu'elles puissent survenir à tout âge, leur fréquence augmente avec l'âge de la mère au moment de la grossesse.&lt;/p&gt;
+&lt;p&gt;Les anomalies de la structure sont accidentelles dans environ la moitié des cas, mais peuvent être transmises par un parent porteur d'une anomalie équilibrée.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risque de récidive&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pour les anomalies accidentelles, il n'y a pas de risque particulier lors d'une grossesse ultérieure (même risque que pour toute grossesse au même âge maternel).&lt;/li&gt;
+&lt;li&gt;Pour une anomalie de la structure équilibrée, un risque de récidive existe; il est fonction de chaque situation et doit être évalué lors d'une consultation de conseil génétique.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img alt=&quot;puce-retour&quot; src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-medicales-genetique-medicale.html&quot;&gt;Sommaire Génétique Médicale&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;</summary>
+		<content type="html">Une anomalie chromosomique est une modification du nombre ou de la forme des chromosomes.
+&lt;p&gt;Différents types d'anomalies chromosomiques&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;les anomalies du nombre : en plus, 47 chromosomes (trisomie), ou en moins, 45 chromosomes (monosomie).&lt;/li&gt;
+&lt;li&gt;les anomalies de structure sont des modifications de la forme d'un ou de plusieurs chromosomes, par exemple une modification de l'ordre des gènes (inversion) ou un échange de matériel génétique entre deux chromosomes (translocation).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Un cas particulier : les polymorphismes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ce sont des variations de la forme d'un chromosome, sans conséquence clinique identifiée.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mécanisme de survenue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Les anomalies chromosomiques surviennent le plus souvent accidentellement, mais peuvent aussi être transmises au sein d'une famille.&lt;br /&gt;Risque de survenue&lt;/p&gt;
+&lt;p&gt;La majorité sont des anomalies de nombre et ne sont pas héréditaires ; bien  qu'elles puissent survenir à tout âge, leur fréquence augmente avec l'âge de la mère au moment de la grossesse.&lt;/p&gt;
+&lt;p&gt;Les anomalies de la structure sont accidentelles dans environ la moitié des cas, mais peuvent être transmises par un parent porteur d'une anomalie équilibrée.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risque de récidive&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pour les anomalies accidentelles, il n'y a pas de risque particulier lors d'une grossesse ultérieure (même risque que pour toute grossesse au même âge maternel).&lt;/li&gt;
+&lt;li&gt;Pour une anomalie de la structure équilibrée, un risque de récidive existe; il est fonction de chaque situation et doit être évalué lors d'une consultation de conseil génétique.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img alt=&quot;puce-retour&quot; src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-medicales-genetique-medicale.html&quot;&gt;Sommaire Génétique Médicale&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;</content>
+		<category term="Génétique médicale" />
+	</entry>
+	<entry>
+		<title>Caryotype</title>
+		<link rel="alternate" type="text/html" href="https://www.materniteportroyal.fr/professionnels-sante/diagnostic-antenatal-et-cpdpn/15-informations-medicales/genetique-medicale/39-caryotype.html"/>
+		<published>2010-02-18T22:07:13+01:00</published>
+		<updated>2010-02-18T22:07:13+01:00</updated>
+		<id>https://www.materniteportroyal.fr/professionnels-sante/diagnostic-antenatal-et-cpdpn/15-informations-medicales/genetique-medicale/39-caryotype.html</id>
+		<author>
+			<name>Pr Jean-Michel DUPONT</name>
+		</author>
+		<summary type="html">Le caryotype est la « carte » des chromosomes obtenue par microphotographie du noyau d'une cellule en division (mitose) et classification selon leur aspect morphologique global et les bandes que l'on fait apparaître par différentes techniques.
+&lt;p&gt;Chaque chromosome est constitué d'une molécule d'ADN, avec plusieurs centaines de gènes, associée à des protéines.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Chez l'Homme, on compte 46 chromosomes : 23 paires dont 22 sont identiques dans les 2 sexes (autosomes) et une paire est spécifique du sexe, XX pour une femme, XY pour un homme (gonosomes ou chromosomes sexuels).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Le caryotype peut s'obtenir à partir de toute cellule susceptible de se diviser qui sera cultivée plusieurs jours; on utilise le plus souvent les cellules du liquide amniotique (obtenues par amniocentèse) ou celles du placenta (ou trophoblaste, obtenues par ponction trophoblastique) pour le diagnostic prénatal. Sinon, les cellules les plus utilisées sont les lymphocytes (globules blancs) obtenus par une prise de sang.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Il permet de compter les chromosomes, de diagnostiquer les anomalies de leur nombre, trisomie (47 chromosomes) ou monosomie (45 chromosomes). Il permet d'identifier les chromosomes et leur « morphologie spécifique », de diagnostiquer les remaniements de la structure (de la forme), délétions, duplications, translocations, inversions etc&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Un caryotype permet l'examen des chromosomes qui sont le support du matériel héréditaire, mais en aucun cas n'analyse leur contenu, c'est-à-dire les gènes.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img alt=&quot;puce-retour&quot; src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-medicales-genetique-medicale.html&quot;&gt;Sommaire Génétique Médicale&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;</summary>
+		<content type="html">Le caryotype est la « carte » des chromosomes obtenue par microphotographie du noyau d'une cellule en division (mitose) et classification selon leur aspect morphologique global et les bandes que l'on fait apparaître par différentes techniques.
+&lt;p&gt;Chaque chromosome est constitué d'une molécule d'ADN, avec plusieurs centaines de gènes, associée à des protéines.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Chez l'Homme, on compte 46 chromosomes : 23 paires dont 22 sont identiques dans les 2 sexes (autosomes) et une paire est spécifique du sexe, XX pour une femme, XY pour un homme (gonosomes ou chromosomes sexuels).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Le caryotype peut s'obtenir à partir de toute cellule susceptible de se diviser qui sera cultivée plusieurs jours; on utilise le plus souvent les cellules du liquide amniotique (obtenues par amniocentèse) ou celles du placenta (ou trophoblaste, obtenues par ponction trophoblastique) pour le diagnostic prénatal. Sinon, les cellules les plus utilisées sont les lymphocytes (globules blancs) obtenus par une prise de sang.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Il permet de compter les chromosomes, de diagnostiquer les anomalies de leur nombre, trisomie (47 chromosomes) ou monosomie (45 chromosomes). Il permet d'identifier les chromosomes et leur « morphologie spécifique », de diagnostiquer les remaniements de la structure (de la forme), délétions, duplications, translocations, inversions etc&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Un caryotype permet l'examen des chromosomes qui sont le support du matériel héréditaire, mais en aucun cas n'analyse leur contenu, c'est-à-dire les gènes.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img alt=&quot;puce-retour&quot; src=&quot;https://www.materniteportroyal.fr/images/stories/PR-SVP/images/puce-retour.png&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt; &lt;a href=&quot;https://www.materniteportroyal.fr/informations-medicales/informations-medicales-genetique-medicale.html&quot;&gt;Sommaire Génétique Médicale&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;</content>
+		<category term="Génétique médicale" />
+	</entry>
+</feed>
